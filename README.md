@@ -22,3 +22,4 @@ Innovation_TextMining_Project/ │ ├
   ── innovation_articles.csv # Dataset of articles
   ── innovation_trends_analysis.ipynb # Jupyter Notebook with full analysis
   ── requirements.txt
+  ── wordcloud.png
